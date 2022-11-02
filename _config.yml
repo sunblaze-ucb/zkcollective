@@ -1,0 +1,8 @@
+theme: minima
+title: zkCollective
+description: Building a secure, universal foundation for multichain interoperability
+show_downloads: false
+github:
+  is_project_page: false
+plugins:
+  - jekyll-redirect-from
